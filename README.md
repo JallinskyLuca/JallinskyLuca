@@ -47,17 +47,6 @@ Me apasiona la intersección entre el código limpio, la seguridad y el rendimie
   </a>
 </p>
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaJallinsky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaJallinsky&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
-
 ### 📫 Conectemos
 
 Si querés charlar sobre desarrollo, carpintería digital o simplemente intercambiar libros de ciencia:

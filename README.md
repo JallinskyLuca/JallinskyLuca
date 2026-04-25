@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas en la UTN BA** y desarrollador de software. Actualmente trabajo creando sistemas para la industria de la carpintería, lo que me dio una base sólida en resolución de problemas del mundo real. 
+Soy estudiante de **Ingeniería en Sistemas en la UTN BA** y desarrollador de software. Actualmente trabajo creando sistemas completos para Pymes y particulares, lo que me dio una base sólida en resolución de problemas del mundo real. 
 
 Paralelamente, estoy construyendo mi propio camino como **freelancer**, enfocado en escalar negocios mediante el uso de **IA, automatizaciones y arquitecturas modernas**. Soy un apasionado de aprender cosas nuevas, desde patrones de diseño hasta el último modelo de lenguaje.
 
@@ -72,7 +72,7 @@ Paralelamente, estoy construyendo mi propio camino como **freelancer**, enfocado
 
 ### 📫 Let's Connect!
 
-Si tenés una idea loca sobre IA o necesitás un sistema que funcione, ¡hablemos!
+Si lo puedes pensar, lo puedo desarrollar! ¡hablemos!
 
 <p align="left">
 <a href="mailto:jallinskyluca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

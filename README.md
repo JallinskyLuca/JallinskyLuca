@@ -1,4 +1,5 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Luca Jallinsky
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Luca+Jallinsky!;" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Systems%20Engineering%20Student-UTN%20BA-blue?style=flat-square&logo=university" />

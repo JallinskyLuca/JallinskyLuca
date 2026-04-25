@@ -70,29 +70,17 @@ Paralelamente, estoy construyendo mi propio camino como **freelancer**, enfocado
   <img src="https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 Si tenés una idea loca sobre IA o necesitás un sistema que funcione, ¡hablemos!
 
 <p align="left">
 <a href="mailto:jallinskyluca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/valenwerle/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@ValenWerle"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="www.linkedin.com/in/jallinskyluca"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.portfoliolj.com/" <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
 
 ---
 <p align="center">
-<i>"Construyendo el futuro, un prompt y un commit a la vez."</i>
+<i>"Building digital systems that solve real-world problems."</i>
 </p>

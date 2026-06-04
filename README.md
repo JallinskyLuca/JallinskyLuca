@@ -13,7 +13,7 @@ Soy estudiante de **Ingeniería en Sistemas en la UTN BA** y desarrollador de so
 
 Paralelamente, estoy construyendo mi propio camino como **freelancer**, enfocado en escalar negocios mediante el uso de **IA, automatizaciones y arquitecturas modernas**. Soy un apasionado de aprender cosas nuevas, desde patrones de diseño hasta el último modelo de lenguaje.
 
-- 🔭 **En qué ando:** Desarrollando e-commerce robustos con **Supabase** y **Next.js**.
+- 🔭 **En qué ando:** Desarrollando e-commerce robustos con **PostgreSQL** y **Next.js**.
 - 🤖 **IA Stack:** Experimentando con **n8n**, **Ollama** y agentes autónomos para optimizar flujos de trabajo.
 - ⚡ **Dato curioso:** Fuera de la pantalla, me vas a encontrar leyendo sobre ciencia o disfrutando de la velocidad y los motores.
 
